@@ -482,5 +482,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="vendor/huawei/angler" name="tbruceyu/angler-MTC20F_vendor" remote="github" revision="master" />
+  <project path="third-party/executables" name="tbruceyu/third-party_executables" remote="github" revision="master" />
 
 </manifest>
